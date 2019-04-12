@@ -1,0 +1,94 @@
+header h1{
+	background-color: #7CFC00;
+	text-align: center;
+	padding: 40px;
+	border-style: groove;
+}
+
+html{
+	background-color: black;
+	min-height: 100%;
+	position: relative;
+}
+
+body{
+	margin: 0px;
+	margin-bottom: 40px;
+}
+
+.links{
+	font-size: 18pt;
+	text-align: center;
+	border: 1px solid white;
+	margin: 10px;
+	padding: 5px;
+	background-color: #7CFC00;
+	color: black;
+}
+
+.columna1{
+	column-count: 1;
+	border: 1px solid #7CFC00;
+	width: 401px;
+	height: auto;
+	padding: 20px;
+	float: left;
+	color: white;
+}
+
+.descripcion{
+	font-size: 18pt;
+	text-align: center;
+	border: 1px solid white;
+	margin: 10px;
+	padding: 5px;
+	background-color: #7CFC00;
+	color: black;
+}
+
+.columna2{
+	border: 1px solid #7CFC00;
+	width: 401px;
+	height: auto;
+	padding: 20px;
+	float: left;
+	color: white;
+}
+
+.referencia{
+	font-size: 18pt;
+	text-align: center;
+	border: 1px solid white;
+	margin: 10px;
+	padding: 5px;
+	background-color: #7CFC00;
+	color: black;
+}
+
+.columna3{
+	border: 1px solid #7CFC00;
+	width: 401px;
+	height: auto;
+	padding: 20px;
+	float: left;
+	color: white;
+}
+
+.columna1 ul li a{
+	float: left;
+	display: block;
+}
+
+footer{
+	width: 100%;
+	height: 30px;
+	background: #7CFC00;
+	border-top: 2px solid #7CFC00;
+	position: absolute;
+	bottom: 0;
+}
+
+hr{
+	color: #7CFC00;
+}
+
