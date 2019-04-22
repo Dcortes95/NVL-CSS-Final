@@ -92,3 +92,10 @@ hr{
 	color: #7CFC00;
 }
 
+
+form{
+	color: white;
+	position: absolute;
+	text-align: right;
+}
+
